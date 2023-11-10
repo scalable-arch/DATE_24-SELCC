@@ -17,7 +17,7 @@ Paper title: [DATE'24] SELCC: Enhancing MLC Reliability and Endurance with Singl
 Paper URL: **(To be updated later!)**
 
 # Overview (H-matrix in multiplicative form)
-![Multiplicative form](https://github.com/xyz123479/DATE_24-SELCC/blob/main/SELCC_multiplicative%20form.PNG)
+![Multiplicative form](https://github.com/scalable-arch/DATE_24-SELCC/blob/main/SELCC_multiplicative%20form.PNG)
 
 # Overview (H-matrix in binary form)
 ![Binary form](https://github.com/scalable-arch/DATE_24-SELCC/blob/main/SELCC_H-matrix.PNG)
