@@ -1,4 +1,4 @@
-# Hardware Overheads (Table 4, 5)
+# Hardware Overheads (Table 4)
 
 # Synthesis setup
 - Compiler: Synopsys Design Compiler
